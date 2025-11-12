@@ -1,0 +1,13 @@
+age_of_people=input("how old ar you?: ")
+print(age_of_people)
+
+num1=input("chose number: ")
+num2=input("chose number: ")
+num3=input("chose number: ")
+num4=input("chose number: ")
+print(num1)
+print(num2)
+print(num3)
+print(num4)
+print(int(num1)+int(num2)+int(num3)+int(num4))
+print(int(num1)-int(num2)-int(num3)-int(num4))
