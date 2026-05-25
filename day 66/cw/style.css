@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.box{
+    border:5px solid rgb(0, 0, 0);
+    width: 160px;
+    height: 150px;
+}
+
+.container1{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box1{
+   border:5px solid rgb(0, 0, 0);
+    width: 160px;
+    height: 150px; 
+}

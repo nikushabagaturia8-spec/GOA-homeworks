@@ -1,0 +1,10 @@
+.my-table{
+    border-collapse: collapse;
+}
+.thead tr:nth-child(even){
+    background-color: blueviolet;
+}
+
+.tbody tr:nth-child(odd){
+    background-color: aqua;
+}

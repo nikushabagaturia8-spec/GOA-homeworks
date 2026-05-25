@@ -1,0 +1,21 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box;
+}
+
+.div1{
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+}
+
+.div2{
+    width: 100px;
+    height:100px;
+    background-color: blueviolet;
+}
+
+.div3{
+    display: flex;
+}

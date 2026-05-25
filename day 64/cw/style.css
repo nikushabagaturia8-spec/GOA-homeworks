@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+body{
+    border: 3px solid black;
+}
+
+.box{
+    border:5px solid rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+}

@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;;
+    box-sizing: border-box;
+}
+
+body{
+    
+    border: 10px solid blue;
+    padding: 10px;
+    }
+
+.my-container{
+    display: flex;
+    padding: 20px;
+    border: 10px solid red;
+}
+
+
+.div1{
+    width: 100%;
+    height: 500px;
+    background-color: forestgreen;
+    border:10px solid darkgreen;}
+
+.div-2{
+    width: 100%;
+    height: 500px;
+    background-color: forestgreen;
+    border:10px solid darkgreen;}

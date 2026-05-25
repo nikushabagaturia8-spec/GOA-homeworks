@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+display: flex;
+align-items: center;
+}
+
+img{
+    border: 5px solid blueviolet;
+    border-radius: 100%;
+}
+
+.p1{
+    color: blue;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
